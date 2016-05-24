@@ -49,7 +49,7 @@ group :development do
 end
 
 group :development, :test do
-  gem 'sql3'
+  gem 'sqlite3'
   gem 'pry'
 end
 
